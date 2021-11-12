@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
+    pathPrefix: '/AhmadRoshanfar.github.io',
     siteUrl: 'https://ahmadroshanfar.github.io',
     gaTrackingId: null,
     trailingSlash: false,
@@ -62,7 +62,7 @@ const config = {
       icons: [
         {
           src: 'src/pwa-512.png',
-          sizes: `512x512`, 
+          sizes: `512x512`,
           type: `image/png`,
         },
       ],
