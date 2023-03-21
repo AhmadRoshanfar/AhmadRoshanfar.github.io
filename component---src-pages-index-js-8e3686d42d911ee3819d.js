@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkembedded_ai_blog=self.webpackChunkembedded_ai_blog||[]).push([[678],{6558:function(e,t,n){n.r(t),n.d(t,{Head:function(){return a}});var l=n(7294);const o={marginTop:0,marginBottom:64,maxWidth:320};t.default=()=>l.createElement("div",null,l.createElement("h1",{style:o},"Welcome to the Embedded Ai Blog"),l.createElement("h2",null,"Coming Soon..."));const a=()=>l.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-js-8e3686d42d911ee3819d.js.map
